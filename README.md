@@ -15,5 +15,6 @@ Some general advice on when and how to use Mixture Models:
 1) All problems we experimented with had multimodal priors.
 2) It is advisable to choose the latent space (i.e. the mixture means) in such a way that the random initial fit of the T_z component matches the latent space.
 3) If modes get merged, one can use a sparsity prior on the probabilities.
-4) If the y-space is continuous such as in 
+4) If the y-space is continuous such as in the inverse kinematics example, one should use quite large batch-sizes
+5) Clamping can go a long way in order to preserve Lipschitz continuity
 
