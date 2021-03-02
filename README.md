@@ -11,7 +11,7 @@ The following packages are required:
 5) matplotlib (version 3.1.3)
 6) tqdm (version 4.42.1)
 
-The code was tested on that specific version with python 3.7.6.
+The code was tested on that specific version with python 3.7.6 with cuda. Particularly the MNIST example runs very slow on CPU.
 
 Some general advice on when and how to use Mixture Models:
 
