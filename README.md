@@ -1,6 +1,6 @@
 # Stabilizing Inv Nets Using Mixture Models
 
-This is the supplementary material for the paper "Stabilizing Invertible Neural Networks Using Mixture Models". The different notebooks for the experiments can be found in the respective folders. 
+This is the supplementary material for the paper "Stabilizing Invertible Neural Networks Using Mixture Models". The different notebooks for the experiments can be found in the respective folders and are based on the official implementation of "Analyzing inverse problems with invertible neural networks", https://github.com/vislearn/analyzing_inverse_problems. 
 
 The following packages are required: 
 
